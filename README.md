@@ -83,3 +83,9 @@ If you use it beyond experiments, review:
 ## License
 
 MIT (see `LICENSE`).
+
+## Citation
+
+If you use or extend this code, please cite the paper:
+
+Pérez Gort, M. L., & Cortesi, A. (2026). *Earth observation data provenance protection through self‑recalibrated watermarking*. **GeoInformatica**, 30(1), 6. https://doi.org/10.1007/s10707-026-00566-2
