@@ -1,6 +1,7 @@
-# EO Data Provenance Protection via Self‑Recalibrated Watermarking (Reference Implementation)
+# Earth Observation Data Provenance Protection through Self-recalibrated Watermarking
 
-This repository contains a **reference implementation** of the framework described in:
+
+This repository contains a reference implementation of the framework described in:
 
 > Pérez Gort, M. L., & Cortesi, A. (2026). *Earth observation data provenance protection through self‑recalibrated watermarking*. **GeoInformatica**, 30(1), 6. https://doi.org/10.1007/s10707-026-00566-2
 
